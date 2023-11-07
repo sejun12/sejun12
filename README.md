@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>객체를 동적으로 생성, 삽입, 삭제</title>
+  </head>
 <style>
  .text {
 						font-size: 60px;
@@ -19,3 +26,4 @@
 <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1">sejun's Github</text>
 </svg>
 </body>
+</html>
