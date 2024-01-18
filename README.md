@@ -25,8 +25,7 @@
 <br>
   
 
-  
-  
-<h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sejun12&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejun12&layout=compact"></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejun12&layout=compact&theme=dracula)](https://github.com/sejun12/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejun12&show_icons=true&theme=dracula)
+
   
